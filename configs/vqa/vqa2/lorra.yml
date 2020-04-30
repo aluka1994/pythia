@@ -101,6 +101,7 @@ training_parameters:
   clip_gradients: true
   lr_ratio: 0.1
   lr_scheduler: true
+  resume: False
   lr_steps:
   - 15000
   - 18000
